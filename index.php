@@ -22,6 +22,7 @@ require(get_file_path("Controller", "libs"));
 require(get_file_path("Model", "libs"));
 require(get_file_path("View", "libs"));
 require(get_file_path("Database", "libs"));
+require(get_file_path("Session", "libs"));
 
 $app = new Bootstrap();
 
